@@ -1,0 +1,14 @@
+D:\aNTIad\SpotifyAntiADD-FINAL\bin\Release\SpotifyAntiADD-FINAL.exe.config
+D:\aNTIad\SpotifyAntiADD-FINAL\bin\Release\SpotifyAntiADD-FINAL.exe.manifest
+D:\aNTIad\SpotifyAntiADD-FINAL\bin\Release\SpotifyAntiADD-FINAL.application
+D:\aNTIad\SpotifyAntiADD-FINAL\bin\Release\SpotifyAntiADD-FINAL.exe
+D:\aNTIad\SpotifyAntiADD-FINAL\bin\Release\SpotifyAntiADD-FINAL.pdb
+D:\aNTIad\SpotifyAntiADD-FINAL\obj\Release\SpotifyAntiADD-FINAL.csprojAssemblyReference.cache
+D:\aNTIad\SpotifyAntiADD-FINAL\obj\Release\SpotifyAntiADD_FINAL.Properties.Resources.resources
+D:\aNTIad\SpotifyAntiADD-FINAL\obj\Release\SpotifyAntiADD-FINAL.csproj.GenerateResource.cache
+D:\aNTIad\SpotifyAntiADD-FINAL\obj\Release\SpotifyAntiADD-FINAL.csproj.CoreCompileInputs.cache
+D:\aNTIad\SpotifyAntiADD-FINAL\obj\Release\SpotifyAntiADD-FINAL.exe.manifest
+D:\aNTIad\SpotifyAntiADD-FINAL\obj\Release\SpotifyAntiADD-FINAL.application
+D:\aNTIad\SpotifyAntiADD-FINAL\obj\Release\SpotifyAntiADD-FINAL.exe
+D:\aNTIad\SpotifyAntiADD-FINAL\obj\Release\SpotifyAntiADD-FINAL.pdb
+D:\aNTIad\SpotifyAntiADD-FINAL\obj\Release\SpotifyAntiADD_FINAL.Form1.resources
